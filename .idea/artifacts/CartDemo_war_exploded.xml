@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="CartDemo:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/CartDemo_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="file-copy" path="E:/SoftWare/mysql-connector-java-5.1.40/mysql-connector-java-5.1.40/mysql-connector-java-5.1.40-bin.jar" />
+        </element>
+      </element>
+      <element id="library" level="project" name="lib" />
+      <element id="javaee-facet-resources" facet="CartDemo/web/Web2" />
+      <element id="javaee-facet-resources" facet="CartDemo/web/Web" />
+    </root>
+  </artifact>
+</component>
